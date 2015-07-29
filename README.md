@@ -1,9 +1,4 @@
----
-language: none
-tags: css, layout, positioning, float, box model
-type: resources
-resources: 0
----
+
 
 ## Resources
 
